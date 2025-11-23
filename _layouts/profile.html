@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {% seo %}
+</head>
+<body>
+    <div class="profile-container">
+        <header class="profile-header">
+            <div class="profile-avatar">
+                <img src="https://github.com/{{ site.github_username }}.png" alt="{{ site.author }}" class="avatar-img">
+            </div>
+            <h1 class="profile-name">{{ site.author }}</h1>
+            <p class="profile-title">{{ site.description }}</p>
+        </header>
+        
+        <main class="profile-content">
+            {{ content }}
+        </main>
+        
+        <footer class="profile-footer">
+            {% include social-links.html %}
+        </footer>
+    </div>
+</body>
+</html>
