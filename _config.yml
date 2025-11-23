@@ -1,0 +1,27 @@
+# Jekyll configuration for profile page
+title: Chris App Developer
+description: Software Developer Portfolio
+author: chris-app-developer 
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Social links
+github_username: chris-app-developer
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
+  - README.md
+  - LICENSE
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
