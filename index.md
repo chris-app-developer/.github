@@ -1,12 +1,14 @@
 ---
 layout: profile
-title: Chris App Developer - Software Developer
+title: Software Developer Portfolio
 description: Welcome to my profile page
 ---
 
 ## About Me
 
-Hello! I'm Chris, a passionate software developer focused on building amazing applications.
+Hello! I'm a passionate software developer focused on building amazing applications.
+
+Check out my website at [trinhnx.dev](https://trinhnx.dev)
 
 ## Skills
 

@@ -1,8 +1,10 @@
-# Hi there, I'm Chris! 👋
+# Hi there! 👋
 
 ## 🚀 About Me
 
 I'm a passionate software developer focused on building amazing applications. Welcome to my GitHub profile!
+
+Check out my website at [trinhnx.dev](https://trinhnx.dev)
 
 ## 💻 Tech Stack
 

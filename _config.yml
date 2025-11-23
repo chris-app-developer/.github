@@ -1,8 +1,7 @@
 # Jekyll configuration for profile page
 title: Chris App Developer
 description: Software Developer Portfolio
-author: chris-app-developer
-email: 
+author: chris-app-developer 
 
 # Build settings
 markdown: kramdown
