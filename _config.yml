@@ -7,6 +7,9 @@ author: chris-app-developer
 markdown: kramdown
 theme: minima
 
+# Global contact email
+email: trinhnx.vnu@gmail.com
+
 # Social links
 github_username: chris-app-developer
 
