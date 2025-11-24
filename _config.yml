@@ -10,6 +10,9 @@ theme: minima
 # Social links
 github_username: chris-app-developer
 
+include:
+  - CNAME
+
 # Exclude from processing
 exclude:
   - Gemfile
